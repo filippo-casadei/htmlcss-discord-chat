@@ -51,7 +51,7 @@ footer {
     justify-content: space-around;
     align-items: center;
     height: 110px;
-    background-color: rgb(229, 178, 23);
+    background-color: #1c1b1b;
 }
 
 /* STRUTTURA MAIN */
@@ -127,7 +127,7 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: gray;
+    background-color: #1c1b1b;
     color: white;
 }
 
@@ -137,11 +137,11 @@ footer {
     justify-content: center;
     align-items: center;
     gap: 12px;
-    border: 2px solid gray;
+    border: 2px solid #1c1b1b;
     color: white;
     border-radius: 999px;
     height: 33px;
-    background-color: gray;
+    background-color: #1c1b1b;
 }
 
 /* CONTENT DELLA PAGINA CHATS */
