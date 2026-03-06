@@ -105,6 +105,10 @@ footer {
     font-size: 11px;
 }
 
+.messaggi {
+margin-bottom: 10px;
+}
+
 .barra-top {
     display: flex;
     align-items: center;
