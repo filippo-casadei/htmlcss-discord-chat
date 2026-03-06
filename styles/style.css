@@ -7,12 +7,12 @@
 /* FONTS */
 
 /*
- .montserrat-<uniquifier> {
+ .montserrat- {
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-weight: <un valore da 100 a 900>;
   font-style: normal;
-} /*
+} 
 
 /* STRUTTURA PAGINA */
 
@@ -107,6 +107,11 @@ footer {
 
 .messaggi {
 margin-bottom: 10px;
+color: white;
+font-family: "Montserrat", sans-serif;
+font-optical-sizing: auto;
+font-weight: 800;
+font-style: normal;
 }
 
 .barra-top {
