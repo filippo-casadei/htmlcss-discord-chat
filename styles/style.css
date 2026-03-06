@@ -48,6 +48,9 @@ footer {
     justify-content: center;
     align-items: center;
     background-color: yellow;
+    flex-direction: column;
+    padding: 16px 0;
+    gap: 12px;
 }
 
 .content {
@@ -56,4 +59,10 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.icona {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
 }
