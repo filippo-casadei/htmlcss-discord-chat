@@ -1,5 +1,4 @@
-
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -43,4 +42,20 @@ footer {
     align-items: center;
     height: 80px;
     background-color: rgb(229, 178, 23);
+}
+
+.sidebar {
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+}
+
+.content {
+    flex-grow: 1;
+    background-color: coral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
