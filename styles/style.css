@@ -1,4 +1,5 @@
-* {
+
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -8,7 +9,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 80px;
+    height: 100vh;
     background-color: lightblue;
 }
 
@@ -41,5 +42,5 @@ footer {
     justify-content: center;
     align-items: center;
     height: 80px;
-    background-color: lightblue;
+    background-color: rgb(229, 178, 23);
 }
