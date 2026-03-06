@@ -50,7 +50,7 @@ footer {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    height: 80px;
+    height: 110px;
     background-color: rgb(229, 178, 23);
 }
 
@@ -199,7 +199,5 @@ footer {
     gap: 4px;
     cursor: pointer;
     width: 30px;
-    height: 30px;
-
 }
 
