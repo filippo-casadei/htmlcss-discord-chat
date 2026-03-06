@@ -111,6 +111,7 @@ footer {
     gap: 8px;
     width: 100%;
     margin-bottom: 25px;
+    margin-left: 9px;
 }
 
 .searchicon {
@@ -140,10 +141,21 @@ footer {
     display: flex;
     align-items: center;
     gap: 10px;
+    margin-left: 8px;
 }
 
 .chatpic {
     width: 12%;
     height: 50%;
     border-radius: 50%;
+}
+.chat-info {
+display: flex;
+flex-grow: 1;
+flex-direction: column;
+}
+
+.chat-top {
+display: flex;
+justify-content: space-between;
 }
