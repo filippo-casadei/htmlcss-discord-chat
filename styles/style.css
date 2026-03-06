@@ -4,6 +4,15 @@
     box-sizing: border-box;
 }
 
+/* FONTS */
+
+/*
+ .montserrat-<uniquifier> {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <un valore da 100 a 900>;
+  font-style: normal;
+} /*
 
 /* STRUTTURA PAGINA */
 
