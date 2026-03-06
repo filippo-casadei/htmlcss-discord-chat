@@ -4,6 +4,42 @@
     box-sizing: border-box;
 }
 
-.titolo {
-    color: red;
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    background-color: lightblue;
+}
+
+.app {
+    width: 100%;
+    max-width: 512px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    height: 60px;
+    background-color: #673AB7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    background-color: pink;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    background-color: lightblue;
 }
