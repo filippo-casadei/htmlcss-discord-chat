@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
+
+/* STRUTTURA PAGINA */
+
 body {
     display: flex;
     justify-content: center;
@@ -42,6 +45,8 @@ footer {
     background-color: rgb(229, 178, 23);
 }
 
+/* STRUTTURA MAIN */
+
 .sidebar {
     width: 80px;
     display: flex;
@@ -61,11 +66,21 @@ footer {
     align-items: center;
 }
 
+/* SPECIFICHE ICONE SIDEBAR */
+
 .icona {
     width: 50px;
     height: 50px;
     object-fit: contain;
     border: 2px solid black;
     border-radius: 50%;
+    cursor: pointer;
+}
+
+.icona-discord {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    border: 2px solid black;
     cursor: pointer;
 }
