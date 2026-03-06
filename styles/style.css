@@ -132,3 +132,11 @@ footer {
     border-radius: 999px;
     height: 33px;
 }
+
+/* CONTENT DELLA PAGINA CHATS */
+
+.chats {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
