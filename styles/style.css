@@ -200,10 +200,15 @@ footer {
     cursor: pointer;
     width: 30px;
     margin-top: 8px;
+    color: white;
 }
 
 .footer-info {
     font-size: 13px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
 }
 
 .footericon img.imgprofilo {
