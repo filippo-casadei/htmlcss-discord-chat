@@ -140,7 +140,8 @@ font-style: normal;
     justify-content: center;
     align-items: center;
     gap: 12px;
-    border: 2px solid black;
+    border: 2px solid gray;
+    color: white;
     border-radius: 999px;
     height: 33px;
 }
