@@ -195,9 +195,13 @@ footer {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    font-size: 17px;
+    font-size: 27px;
     gap: 4px;
     cursor: pointer;
     width: 30px;
+}
+
+.footer-info {
+    font-size: 13px;
 }
 
