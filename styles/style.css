@@ -48,7 +48,7 @@ main {
 
 footer {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     height: 80px;
     background-color: rgb(229, 178, 23);
@@ -186,4 +186,16 @@ footer {
     font-optical-sizing: auto;
     font-weight: 600;
     font-style: normal;
+}
+
+/* FOOTER */
+
+.footericon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 17px;
+    gap: 4px;
+    cursor: pointer;
 }
