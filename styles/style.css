@@ -52,7 +52,7 @@ footer {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    background-color: yellow;
+    background-color: black;
     flex-direction: column;
     padding: 16px 0;
     gap: 12px;
