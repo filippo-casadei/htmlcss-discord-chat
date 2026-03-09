@@ -78,6 +78,13 @@ footer {
     font-family: sans-serif;
     font-size: 11px;
     border-top-left-radius: 20px;
+    min-height: 0;
+}
+
+.listchat {
+    width: 100%;
+    flex-grow: 1;
+    overflow-y: auto;
 }
 
 /* SPECIFICHE ICONE SIDEBAR */
